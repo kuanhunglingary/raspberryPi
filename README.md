@@ -1,24 +1,28 @@
-# Download Raspberry Pi OS using Raspberry Pi Imager for Raspberry Pi 5
+# Learn raspberry pi 5
+### Download Raspberry Pi OS using Raspberry Pi Imager for Raspberry Pi 5
 [video](https://youtu.be/0u6iflSzwp0)
 
-# Flassh an LED
+Follow the officail guide tutorial "Physical Computing with Python"
+[Tutorial](https://projects.raspberrypi.org/en/projects/physical-computing/0)
+
+### LED flashing on and off
 [flashLED.py](./flashLED.py)
 
-# Use buttons to get input
+### Use buttons to get input
 [gpio_button.py](./gpio_button.py)
 
-# Use button to control the LED
+### Use button to control the LED
 [gpio_control](./gpio_control.py)
 
-# Press or release button to control LED 
+### Press or release button to control LED 
 
-# Make a switch
+### Press the button to turn on the LED or release the button to turn off the LED
 [gpio_control_toggle](./gpio_control_toggle.py)
 
-# Use a buzzer
+### Create a beep() method for a buzzer
 [gpio buzzer](./gpio_buzzer.py)
 
-# Use button to control three LEDs and a buzzer
+### Use button to control three LEDs and a buzzer
 [traffic light](./trafficLight.py)
 
 | Component | GPIO pin |
