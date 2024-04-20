@@ -23,7 +23,7 @@ Follow the officail guide tutorial "Physical Computing with Python"
 [gpio buzzer](./gpio_buzzer.py)
 
 ### Use button to control three LEDs and a buzzer
-[traffic light](./trafficLight.py)
+[traffic light](./gpio_trafficLight.py)
 
 | Component | GPIO pin |
 |-----------|----------|
@@ -32,3 +32,15 @@ Follow the officail guide tutorial "Physical Computing with Python"
 | Amber LED |    13    |
 | Green LED |    19    |
 | Buzzer    |     5    |
+
+### Control two potentiometers to adjust teh sensitivity of PIR sensor
+[PIR sensor](./gpio_pirSensor.py)
+
+### Use an ultrasonic distance sensor to calculate the distance from the object
+[ultrasonic distance sensor](./gpio_ultrasonicDistanceSensor.py)
+
+### ADC(MCP3008) 
+[ADC(3008)](./gpio_ADC.py)
+1. Adjusted the potentiometer and then my raspberry Pi5 read the voltage. but my potentiometer was broken and just show 0.0004885197850512668
+2. Twist the dial when raspberry Pi5 read the voltage.
+3. Connect LED to the potentiometer and turn the dial to change the LED brightness.
