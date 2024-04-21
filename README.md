@@ -2,6 +2,9 @@
 ### Download Raspberry Pi OS using Raspberry Pi Imager for Raspberry Pi 5
 [video](https://youtu.be/0u6iflSzwp0)
 
+### raspberry Pi 5 install SSD via Pimoroni NVMe Base
+[video](https://youtu.be/vrNRwRqnzSM?si=oXrwpwxJyyvASDD1)
+
 Follow the officail guide tutorial "Physical Computing with Python"
 [Link](https://projects.raspberrypi.org/en/projects/physical-computing/0)
 
