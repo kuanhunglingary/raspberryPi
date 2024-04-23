@@ -22,6 +22,7 @@ Follow the officail guide tutorial "Physical Computing with Python"
 
 ### Press the button to turn on the LED or release the button to turn off the LED
 [gpio_control_toggle_press_release.py](./gpio_control_toggle_press_release.py)
+![image](./gpio_control_toggle_press_release.jpg)
 
 ### Create a beep() method for a buzzer
 [gpio_buzzer.py](./gpio_buzzer.py)
@@ -37,14 +38,19 @@ Follow the officail guide tutorial "Physical Computing with Python"
 | Green LED |    19    |
 | Buzzer    |     5    |
 
-### Control two potentiometers to adjust teh sensitivity of PIR sensor
+![image](./threeLEDsBuzzer.jpg)
+
+### Control two potentiometers to adjust the sensitivity of PIR sensor
 [gpio_pirSensor.py](./gpio_pirSensor.py)
+![image](./PIRsensor.jpg)
 
 ### Use an ultrasonic distance sensor to calculate the distance from the object
 [gpio_ultrasonicDistanceSensor](./gpio_ultrasonicDistanceSensor.py)
+![image](./ultrasonicDistanceSensor.jpg)
 
 ### ADC(MCP3008) 
 [gpio_ADC.py](./gpio_ADC.py)
-1. Adjusted the potentiometer and then my raspberry Pi5 read the voltage. but my potentiometer was broken and just show 0.0004885197850512668
-2. Twist the dial when raspberry Pi5 read the voltage.
-3. Connect LED to the potentiometer and turn the dial to change the LED brightness.
+1. Adjusted the potentiometer and then my raspberry Pi5 read the voltage, but my potentiometer was broken and just show 0.0004885197850512668 😥
+2. Twist the dial when raspberry Pi5 read the voltage, but my potentiometer was broken and just show 0.0004885197850512668 😥
+3. Connect LED to the potentiometer and turn the dial to change the LED brightness, but my potentiometer was broken and the LED can't bright 😥 
+![image](./ADCpotentiometer.jpg)
