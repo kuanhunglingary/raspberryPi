@@ -22,7 +22,6 @@ Follow the officail guide tutorial "Physical Computing with Python"
 
 ### Press the button to turn on the LED or release the button to turn off the LED
 [gpio_control_toggle_press_release.py](./gpio_control_toggle_press_release.py) 
-
 ![image](./gpio_control_toggle_press_release.jpg)
 
 ### Create a beep() method for a buzzer
@@ -38,12 +37,11 @@ Follow the officail guide tutorial "Physical Computing with Python"
 | Amber LED |    13    |
 | Green LED |    19    |
 | Buzzer    |     5    |
- 
+
 ![image](./threeLEDsBuzzer.jpg)
 
 ### Control two potentiometers to adjust the sensitivity of PIR sensor
 [gpio_pirSensor.py](./gpio_pirSensor.py)
-
 ![image](./PIRsensor.jpg)
 
 ### Use an ultrasonic distance sensor to calculate the distance from the object
